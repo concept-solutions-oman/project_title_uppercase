@@ -8,8 +8,8 @@ def main():
     os.makedirs(base_dir, exist_ok=True)
     
     # Source paths (from the AI agent's brain directory)
-    src_icon = r"C:\Users\Rajesh\.gemini\antigravity-ide\brain\e5bd03e0-00b1-4325-9a1a-92c8ec6e446c\final_icon_png_1782544251185.png"
-    src_cover = r"C:\Users\Rajesh\.gemini\antigravity-ide\brain\e5bd03e0-00b1-4325-9a1a-92c8ec6e446c\final_cover_png_1782544269771.png"
+    src_icon = r"C:\Users\Rajesh\.gemini\antigravity-ide\brain\e5bd03e0-00b1-4325-9a1a-92c8ec6e446c\odoo_module_icon_png_1782545017370.png"
+    src_cover = r"C:\Users\Rajesh\.gemini\antigravity-ide\brain\e5bd03e0-00b1-4325-9a1a-92c8ec6e446c\odoo_module_cover_png_1782545036179.png"
     
     # Destination paths
     dest_icon = os.path.join(base_dir, "icon.png")

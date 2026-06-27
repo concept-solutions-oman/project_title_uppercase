@@ -16,4 +16,6 @@
     'application': False,
     'auto_install': False,
     'license': 'LGPL-3',
+    'price': 5.0,
+    'currency': 'USD',
 }

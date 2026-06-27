@@ -7,9 +7,11 @@
         This module automatically converts any lowercase text entered 
         in the Project Title field to uppercase.
     """,
-    'author': 'Concept Solutions',
-    # 'depends': ['concept_project_management'],
+    'author': "Concept Solutions LLC",
+    'website': "https://www.csloman.com/",
+    'depends': ['project'],
     'data': [],
+    'images': ['static/description/cover.png'],
     'installable': True,
     'application': False,
     'auto_install': False,

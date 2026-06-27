@@ -3,7 +3,7 @@ from odoo import models, fields, api
 
 
 class ProjectCsl(models.Model):
-    _inherit = 'project.csl'
+    _inherit = 'project.project'
 
     @api.onchange('name')
     def _onchange_name_uppercase(self):

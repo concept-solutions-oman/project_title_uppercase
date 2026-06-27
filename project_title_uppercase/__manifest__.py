@@ -11,7 +11,7 @@
     'website': "https://www.csloman.com/",
     'depends': ['project'],
     'data': [],
-    'images': ['static/description/logo.png'],
+    'images': ['static/description/cover.png'],
     'installable': True,
     'application': False,
     'auto_install': False,
